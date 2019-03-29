@@ -1,5 +1,4 @@
-# 40/80 column mode cable 
-# with switchable for Commodore 128
+# 40/80 column mode cable with switchable for C128
 
 
 
